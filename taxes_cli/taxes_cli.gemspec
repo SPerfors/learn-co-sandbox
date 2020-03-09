@@ -1,11 +1,11 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "cli_taxes/version"
+require "taxes_cli/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "cli_taxes"
-  spec.version       = CliTaxes::VERSION
+  spec.name          = "taxes_cli"
+  spec.version       = TaxesCli::VERSION
   spec.authors       = ["'Steven Perfors'"]
   spec.email         = ["'stevecanbuild@gmail.com'"]
 

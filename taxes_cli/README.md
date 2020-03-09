@@ -1,6 +1,8 @@
-# CliTaxes
+HELLO WORLD
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cli_taxes`. To experiment with that code, run `bin/console` for an interactive prompt.
+# TaxesCli
+
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/taxes_cli`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -9,7 +11,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'cli_taxes'
+gem 'taxes_cli'
 ```
 
 And then execute:
@@ -18,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install cli_taxes
+    $ gem install taxes_cli
 
 ## Usage
 
@@ -32,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/'mirthful-software-7552'/cli_taxes. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/'mirthful-software-7552'/taxes_cli. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -40,4 +42,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the CliTaxes project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'mirthful-software-7552'/cli_taxes/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the TaxesCli project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'mirthful-software-7552'/taxes_cli/blob/master/CODE_OF_CONDUCT.md).

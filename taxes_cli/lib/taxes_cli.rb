@@ -1,6 +1,6 @@
-require "cli_project/version"
+require "taxes_cli/version"
 
-module CliProject
+module TaxesCli
   class Error < StandardError; end
   # Your code goes here...
 end
